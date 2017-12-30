@@ -1,6 +1,7 @@
 ---
 # YAML Front Matter
-layout: default
+# layout: default
+theme: minima
 ---
-# helloooo
+# helloooox
 world
