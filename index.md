@@ -4,5 +4,7 @@ title: my first jekyll site
 ---
 # hellooo！！！
 world
-<h1>こんには</h1>
+{% for post in site.posts %}
+- [{{post.title}}]({{post.url}})
+{% endfor %}
 ![food](/food.jpg){:height="250x"}
