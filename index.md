@@ -6,7 +6,7 @@ title: my first jekyll site
 world
 
 {% for post in site.posts %}
-- [{{page.title}}]({{page.url}})
+- [{{post.title}}]({{post.url}})
 {% endfor %}
 
 ![food](/food.jpg){:height="250x"}
