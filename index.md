@@ -2,7 +2,7 @@
 layout: default
 title: my first jekyll site
 ---
-# hellooo！！！
+# hellooon！！！
 world
 
 {% for post in site.posts %}
