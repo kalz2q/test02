@@ -1,7 +1,6 @@
 ---
-# YAML Front Matter
 layout: default
-# theme: minima
+title : my first jekyll site
 ---
 # hellooooxx
 world
